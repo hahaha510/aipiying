@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #484848;
+  text-decoration: none;
+}
+img {
+  vertical-align: top;
+}
+li::marker {
+  content: '';
+}
+.body {
+  font-size: 14px;
+  color: #484848;
+}
+li {
+  list-style-type: none;
+}
